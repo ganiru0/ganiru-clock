@@ -52,6 +52,7 @@
       (dielectric_constraints no)
     )
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 78.74 144.78)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
@@ -2272,6 +2273,9 @@
   (gr_line locked (start 210.6 140) (end 210.6 143) (layer "User.4") (width 0.05) (tstamp eed316e0-a400-42eb-b0c7-c717e5feab07))
   (gr_line locked (start 210.6 57) (end 150 57) (layer "User.4") (width 0.05) (tstamp f3b4fea2-95cf-4430-b47b-d228927219cc))
   (gr_line locked (start 82 64.4) (end 85 64.4) (layer "User.4") (width 0.05) (tstamp f8260743-c4bd-43e1-9872-bdc0280c56a1))
+  (gr_text "The GG-Board" (at 195.58 137.16) (layer "F.SilkS") (tstamp a728b430-ea7e-4929-899c-f3ada805592e)
+    (effects (font (size 2 2) (thickness 0.15)))
+  )
 
   (segment (start 97.8 97.8) (end 86.604 97.8) (width 0.3048) (layer "F.Cu") (net 1) (tstamp 15fded14-6923-4e90-b83a-bdeb520d57cf))
   (segment (start 83.82 100.584) (end 83.82 125.984) (width 0.3048) (layer "F.Cu") (net 1) (tstamp 5d38a2e1-8355-4d28-8549-47092f177aba))
